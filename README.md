@@ -1,4 +1,4 @@
-# MCTS_visualization
+# mcts_visualization
 An implementation of visualizing Monte Carlo Tree Search 
 
 Require: <code>pip install pygame</code>.
